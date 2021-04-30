@@ -1,0 +1,1 @@
+This is the React frontend project (language peru)
